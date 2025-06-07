@@ -1,0 +1,18 @@
+{
+	"name": "vike-error-repro",
+	"compatibility_date": "2021-09-29",
+	"compatibility_flags": ["nodejs_compat"],
+	"main": "./worker/index.js",
+	"observability": {
+		"enabled": true
+	},
+	"upload_source_maps": true,
+	"workers_dev": true,
+	"send_metrics": false,
+	"site": {
+		"bucket": "./dist/client"
+	},
+	"dev": {
+		"port": 3000
+	}
+}
