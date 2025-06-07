@@ -16,7 +16,6 @@
 	"dependencies": {
 		"@radix-ui/react-slot": "^1.2.3",
 		"@radix-ui/react-tabs": "^1.1.12",
-		"@shadcn/ui": "^0.0.4",
 		"@tailwindcss/vite": "^4.1.8",
 		"class-variance-authority": "^0.7.1",
 		"clsx": "^2.1.1",
@@ -36,7 +35,6 @@
 		"@babel/core": "^7.27.3",
 		"@babel/plugin-transform-react-jsx": "^7.27.1",
 		"@biomejs/biome": "^1.9.4",
-		"@flydotio/dockerfile": "^0.7.10",
 		"@testing-library/dom": "^10.4.0",
 		"@testing-library/jest-dom": "^6.6.3",
 		"@testing-library/react": "^16.3.0",
@@ -55,11 +53,10 @@
 		"stylelint": "^16.19.1",
 		"stylelint-config-standard-scss": "^15.0.1",
 		"stylelint-config-tailwindcss": "^1.0.0",
-		"tsx": "^4.19.4",
 		"tw-animate-css": "^1.3.2",
 		"typescript": "^5.8.3",
 		"vite": "^6.3.5",
-		"vite-plugin-compression2": "^@.0.1",
+		"vite-plugin-compression2": "^2.0.1",
 		"vitest": "^3.1.4",
 		"wrangler": "^4.18.0"
 	},
