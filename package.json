@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "type": "module",
   "main": "api/index.js",
+  "engines": {
+  "node": "20.x"
+},
   "scripts": {
     "build": "vike build"
   },
